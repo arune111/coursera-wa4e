@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Meng Shi Severance - Broken Rock Paper Scissors</title>
+<title> ea2d4597</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
